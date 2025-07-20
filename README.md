@@ -1,0 +1,1 @@
+This is a pcb design and eventual firmware for an ortholinear 60% hall effect keyboard. To my knowledge there currently are no hall effect ortholinear keyboards for purchase so feel free to take this and run with it. 
