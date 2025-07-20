@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Hal_Switch")(type "KiCad")(uri "/home/ry/.local/share/kicad/9.0/footprints/Hal_Switch.pretty")(options "")(descr ""))
+)
